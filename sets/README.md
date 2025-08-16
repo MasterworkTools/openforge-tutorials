@@ -20,7 +20,8 @@ All of our set suggestions below are based on the preference for Magnets + OpenL
 * infinitylock - has infinitylock clip holes at edges and vertices
 * magnetic.infinitylock - has infinitylock clip holes at vertices and holes for 5mm magnets at edges
 * dragonlock - has dragonbite clip holes at vertices
-* magnetic.dragonlock - has dragonbite clip holes at vertices and holes for 5mm magnets at edges 
+* magnetic.dragonlock - has dragonbite clip holes at vertices and holes for 5mm magnets at edges
+* letter naming scheme (I, E, etc.) - follows the OpenLock specifications, see [here](https://www.printablescenery.com/product/open-lock/).
 
 Note: dragonlock currently mostly supports tiles that are divisible by 2. eg. 2x2, 2x4, not 2x3 or 3x3.
 
