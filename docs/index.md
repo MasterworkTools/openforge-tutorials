@@ -38,7 +38,7 @@ As already indicated before, OpenForge tiles are not single piece, but require s
 ![image](OpenForgeExampleTileFloor.png)
 
 Once assembled (and painted) the tile will look something like this:
-![image](OpenForge_assembled_floor.jpg)
+![image](Openforge_assembled_floor.jpg)
 
 An example of the pieces required for a floor with wall tile are, a base part, a floor part, and a wall part:
 ![image](OpenForgeExampleTileFloorWithWall.png)
@@ -174,7 +174,7 @@ Most Table Top Role Playing Games (TTRPG) use a 1-inch grid for their maps. As s
 #### Example Map
 
 To illustrate the differences between the different systems we will use an example map designed to showcase the strengths and weaknesses of the various systems. The map consists of four areas, a hallway A, and three rooms B,C, and, D. Please be aware that when recreating the map with the various systems, we will limit ourselves to only using tiles from that system. A better alternative might be available in another system, but that defeats the point. We want to show where a system shines and where it falls short. If you notice such an improvement, bonus points for you! We, however, do not have a bonus shop, Sorry! But you can use the idea when making your own terrain!
-![Example map](Example-map2.png)
+![Example map](example-map2.png)
 
 #### Separate wall (SW)
 
@@ -215,7 +215,7 @@ The S system takes the idea of Separate wall, which is having the walls separate
 #### Dungeon sticks
 
 If you are into organic shapes, or dislike the rectilinear grid, dungeon stick are for you! Dungeons sticks can be placed on the table, a printed surface, with or without grid. The pieces are connected together with a hinge like system. Full transparency, there are not _that_ many OpenForge Dungeon stick pieces, but there are a lot of OpenForge compatible, or non-OpenForge dungeon sticks. You can search Thingiverse for EC3D and DungeonSticks. As Dungeon sticks are well suited for organic shapes, using them to recreate the map, which is rectilinear, will do them a disservice. As such, a different example is shown of a cave system which organic shapes.
-![DungeonStick](DungeonStick.jpg)
+![DungeonStick](dungeonStick.jpg)
 ![DungeonStick](DungeonStick_DungeonMaestro.jpg)
 
 #### What system to use?
