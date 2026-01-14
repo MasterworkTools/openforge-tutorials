@@ -1,5 +1,6 @@
 # OpenForge tutorials
 
+* [Wiki](https://masterworktools.github.io/openforge-tutorials/)
 * [Guides](guides/README.md)
 * [Tools, Supplies and Introduction](sets/README.md)
 * [Paints for Miniatures](hobby/paints.md)
