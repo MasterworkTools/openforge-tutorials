@@ -245,7 +245,7 @@ To create a basic set, you will want a selection that lets you build a few small
   * [Base](https://staging.openforge.tools/?tag=size%7Cdepth%7C2&tag=size%7Cwidth%7C2&tag=shape%7Cbase&tag=texture%7Cplain&tag=shape%7Cbase%7Csquare&deny=build%7Cs2w&deny=shape%7Cbase%7Celectronics)
   * [Floor](https://staging.openforge.tools/?tag=connection%7Copenforge&tag=shape%7Cfloor&tag=shape%7Csquare&tag=size%7Cdepth%7C2&tag=size%7Cwidth%7C2) (I suggest filtering by texture for this one, there's a lot here)
 * 2 4x4 floors
-  * [Base](https://staging.openforge.tools/?tag=size%7Cdepth%7C2&tag=shape%7Cbase&tag=texture%7Cplain&tag=shape%7Cbase%7Csquare&tag=size%7Cwidth%7C4&deny=build%7Cs2w&deny=shape%7Cbase%7Celectronics)
+  * [Base](https://staging.openforge.tools/?tag=shape%7Cbase&tag=texture%7Cplain&tag=shape%7Cbase%7Csquare&tag=size%7Cwidth%7C4&tag=size%7Cdepth%7C4&deny=build%7Cs2w&deny=shape%7Cbase%7Celectronics)
   * [Floor](https://staging.openforge.tools/?tag=connection%7Copenforge&tag=shape%7Cfloor&tag=shape%7Csquare&tag=size%7Cdepth%7C2&tag=size%7Cwidth%7C4) 
 * 18 S2W 2x2 Floors (Floors for walls)
   * [Base](https://staging.openforge.tools/?tag=build%7Cs2w&tag=shape%7Cbase&tag=shape%7Cwall&tag=size%7Cdepth%7C2&tag=size%7Cwidth%7C2)
